@@ -1,0 +1,51 @@
+/*css file*/
+
+
+nav{
+	font-family: Helvetica, sans-serif;
+	background: #e55a22;
+	width: 550px;
+	margin: 0 auto;
+	border-radius: 5px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffa84c+0,e04f2a+100 */
+background: #ffa84c; /* Old browsers */
+background: -moz-linear-gradient(top,  #ffa84c 0%, #e04f2a 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffa84c), color-stop(100%,#e04f2a)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #ffa84c 0%,#e04f2a 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #ffa84c 0%,#e04f2a 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #ffa84c 0%,#e04f2a 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #ffa84c 0%,#e04f2a 100%); /* W3C */
+ 
+
+
+
+
+
+}
+
+ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: block;
+	text-align: center;
+}
+
+li{
+	display: inline-block;
+	margin: 5px;
+	border-right: +1px solid #e04d2a;
+
+
+
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	display: block;
+	font-weight: 1.3em;
+	text-shadow: 0 -1px 1px rgba( 0,0,0,0.5 );
+	padding: 15px 20px;
+}
+
